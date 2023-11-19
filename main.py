@@ -1,4 +1,4 @@
 def okay():
-    print("okay")
+    print("notokay")
 
 okay()
